@@ -1,0 +1,4 @@
+{
+  "baseUrl": "http://localhost:64320",
+  "chromeWebSecurity": false
+}
