@@ -29,6 +29,6 @@ npm run cover
 
 # TODO
 
-- [ ] Improve unit testing with jest/@testing-library/svelte for components
-- [ ] Improve E2E testing with cypress for the app
-- [ ] Add storybook stories
+- [ ] Improve unit testing with `jest/@testing-library/svelte` for components
+- [ ] Improve E2E testing with `cypress` for the app
+- [ ] Add `storybook` stories
